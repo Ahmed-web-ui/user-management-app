@@ -33,7 +33,6 @@ const Create = () => {
                 <button className="btn btn-info">Submit</button>
             </form>
         </div>
-        <div>bye</div>
     </div>
   )
 } 
